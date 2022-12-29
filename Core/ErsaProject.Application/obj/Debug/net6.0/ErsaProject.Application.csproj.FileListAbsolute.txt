@@ -1,0 +1,15 @@
+C:\Users\ozge.toprak\Desktop\ersa\ErsaProject\Core\ErsaProject.Application\bin\Debug\net6.0\ErsaProject.Application.deps.json
+C:\Users\ozge.toprak\Desktop\ersa\ErsaProject\Core\ErsaProject.Application\bin\Debug\net6.0\ErsaProject.Application.dll
+C:\Users\ozge.toprak\Desktop\ersa\ErsaProject\Core\ErsaProject.Application\bin\Debug\net6.0\ErsaProject.Application.pdb
+C:\Users\ozge.toprak\Desktop\ersa\ErsaProject\Core\ErsaProject.Application\obj\Debug\net6.0\ErsaProject.Application.csproj.AssemblyReference.cache
+C:\Users\ozge.toprak\Desktop\ersa\ErsaProject\Core\ErsaProject.Application\obj\Debug\net6.0\ErsaProject.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ozge.toprak\Desktop\ersa\ErsaProject\Core\ErsaProject.Application\obj\Debug\net6.0\ErsaProject.Application.AssemblyInfoInputs.cache
+C:\Users\ozge.toprak\Desktop\ersa\ErsaProject\Core\ErsaProject.Application\obj\Debug\net6.0\ErsaProject.Application.AssemblyInfo.cs
+C:\Users\ozge.toprak\Desktop\ersa\ErsaProject\Core\ErsaProject.Application\obj\Debug\net6.0\ErsaProject.Application.csproj.CoreCompileInputs.cache
+C:\Users\ozge.toprak\Desktop\ersa\ErsaProject\Core\ErsaProject.Application\obj\Debug\net6.0\ErsaProject.Application.dll
+C:\Users\ozge.toprak\Desktop\ersa\ErsaProject\Core\ErsaProject.Application\obj\Debug\net6.0\refint\ErsaProject.Application.dll
+C:\Users\ozge.toprak\Desktop\ersa\ErsaProject\Core\ErsaProject.Application\obj\Debug\net6.0\ErsaProject.Application.pdb
+C:\Users\ozge.toprak\Desktop\ersa\ErsaProject\Core\ErsaProject.Application\obj\Debug\net6.0\ref\ErsaProject.Application.dll
+C:\Users\ozge.toprak\Desktop\ersa\ErsaProject\Core\ErsaProject.Application\bin\Debug\net6.0\ErsaProject.Domain.dll
+C:\Users\ozge.toprak\Desktop\ersa\ErsaProject\Core\ErsaProject.Application\bin\Debug\net6.0\ErsaProject.Domain.pdb
+C:\Users\ozge.toprak\Desktop\ersa\ErsaProject\Core\ErsaProject.Application\obj\Debug\net6.0\ErsaProject.Application.csproj.CopyComplete

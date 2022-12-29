@@ -1,0 +1,17 @@
+C:\Users\ozge.toprak\Desktop\ersa\ErsaProject\Infrastructure\ErsaProject.Infrastructure\bin\Debug\net6.0\ErsaProject.Infrastructure.deps.json
+C:\Users\ozge.toprak\Desktop\ersa\ErsaProject\Infrastructure\ErsaProject.Infrastructure\bin\Debug\net6.0\ErsaProject.Infrastructure.dll
+C:\Users\ozge.toprak\Desktop\ersa\ErsaProject\Infrastructure\ErsaProject.Infrastructure\bin\Debug\net6.0\ErsaProject.Infrastructure.pdb
+C:\Users\ozge.toprak\Desktop\ersa\ErsaProject\Infrastructure\ErsaProject.Infrastructure\obj\Debug\net6.0\ErsaProject.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\ozge.toprak\Desktop\ersa\ErsaProject\Infrastructure\ErsaProject.Infrastructure\obj\Debug\net6.0\ErsaProject.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ozge.toprak\Desktop\ersa\ErsaProject\Infrastructure\ErsaProject.Infrastructure\obj\Debug\net6.0\ErsaProject.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\ozge.toprak\Desktop\ersa\ErsaProject\Infrastructure\ErsaProject.Infrastructure\obj\Debug\net6.0\ErsaProject.Infrastructure.AssemblyInfo.cs
+C:\Users\ozge.toprak\Desktop\ersa\ErsaProject\Infrastructure\ErsaProject.Infrastructure\obj\Debug\net6.0\ErsaProject.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\ozge.toprak\Desktop\ersa\ErsaProject\Infrastructure\ErsaProject.Infrastructure\obj\Debug\net6.0\ErsaProject.Infrastructure.dll
+C:\Users\ozge.toprak\Desktop\ersa\ErsaProject\Infrastructure\ErsaProject.Infrastructure\obj\Debug\net6.0\refint\ErsaProject.Infrastructure.dll
+C:\Users\ozge.toprak\Desktop\ersa\ErsaProject\Infrastructure\ErsaProject.Infrastructure\obj\Debug\net6.0\ErsaProject.Infrastructure.pdb
+C:\Users\ozge.toprak\Desktop\ersa\ErsaProject\Infrastructure\ErsaProject.Infrastructure\obj\Debug\net6.0\ref\ErsaProject.Infrastructure.dll
+C:\Users\ozge.toprak\Desktop\ersa\ErsaProject\Infrastructure\ErsaProject.Infrastructure\bin\Debug\net6.0\ErsaProject.Application.dll
+C:\Users\ozge.toprak\Desktop\ersa\ErsaProject\Infrastructure\ErsaProject.Infrastructure\bin\Debug\net6.0\ErsaProject.Domain.dll
+C:\Users\ozge.toprak\Desktop\ersa\ErsaProject\Infrastructure\ErsaProject.Infrastructure\bin\Debug\net6.0\ErsaProject.Application.pdb
+C:\Users\ozge.toprak\Desktop\ersa\ErsaProject\Infrastructure\ErsaProject.Infrastructure\bin\Debug\net6.0\ErsaProject.Domain.pdb
+C:\Users\ozge.toprak\Desktop\ersa\ErsaProject\Infrastructure\ErsaProject.Infrastructure\obj\Debug\net6.0\ErsaProject.Infrastructure.csproj.CopyComplete
